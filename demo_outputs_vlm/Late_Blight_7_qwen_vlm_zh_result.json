@@ -1,0 +1,20 @@
+{
+  "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_7.jpg",
+  "language": "zh",
+  "cnn_result": {
+    "predicted_class": "Late_Blight",
+    "confidence": 1.0,
+    "second_class": "Early_Blight",
+    "second_confidence": 1.869406629495529e-09,
+    "margin": 0.9999999981305934,
+    "probabilities": {
+      "Early_Blight": 1.869406629495529e-09,
+      "Healthy": 1.4402873338426048e-09,
+      "Late_Blight": 1.0
+    }
+  },
+  "vlm_raw_output": "诊断结论：\n根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有晚疫病（Late_Blight）。\n\n图像中的可能视觉依据：\n- 叶片上出现深褐色斑点和条纹，这是晚疫病的典型症状。\n- 叶片边缘有轻微的卷曲现象，这也是晚疫病的一个特征。\n\n说明与限制：\n- 这个诊断是基于 CNN 模型的预测结果，但需要人工复核或农业专家进一步确认。\n- 晚疫病是由 Phytophthora infestans 等真菌引起的，但仅凭图像无法确定具体的病原体。",
+  "vlm_final_output": "诊断结论：\n根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有晚疫病（Late_Blight）。\n\n图像中的可能视觉依据：\n- 叶片上出现深褐色斑点和条纹，这是晚疫病的典型症状。\n- 叶片边缘有轻微的卷曲现象，这也是晚疫病的一个特征。\n\n说明与限制：\n- 这个诊断是基于 CNN 模型的预测结果，但需要人工复核或农业专家进一步确认。\n- 晚疫病是由 Phytophthora infestans 等真菌引起的，但仅凭图像无法确定具体的病原体。",
+  "warnings": [],
+  "retry_used": false
+}

@@ -1,0 +1,407 @@
+[
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_1.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9998223185539246,
+    "second_confidence": 9.296323696617037e-05,
+    "margin": 0.9997293553169584,
+    "probabilities": {
+      "Early_Blight": 0.9998223185539246,
+      "Healthy": 9.296323696617037e-05,
+      "Late_Blight": 8.471376349916682e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.98%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.01%，早疫病 99.98%，晚疫病 0.01%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_2.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9987897276878357,
+    "second_confidence": 0.0008052067714743316,
+    "margin": 0.9979845209163614,
+    "probabilities": {
+      "Early_Blight": 0.9987897276878357,
+      "Healthy": 0.0008052067714743316,
+      "Late_Blight": 0.0004050438874401152
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.88%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.08%，早疫病 99.88%，晚疫病 0.04%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_3.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9999016523361206,
+    "second_confidence": 7.003542850725353e-05,
+    "margin": 0.9998316169076134,
+    "probabilities": {
+      "Early_Blight": 0.9999016523361206,
+      "Healthy": 2.8205400667502545e-05,
+      "Late_Blight": 7.003542850725353e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.99%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.00%，早疫病 99.99%，晚疫病 0.01%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_4.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9902036190032959,
+    "second_confidence": 0.009656312875449657,
+    "margin": 0.9805473061278462,
+    "probabilities": {
+      "Early_Blight": 0.9902036190032959,
+      "Healthy": 0.009656312875449657,
+      "Late_Blight": 0.00014008751895744354
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.02%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.97%，早疫病 99.02%，晚疫病 0.01%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_5.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9998935461044312,
+    "second_confidence": 7.607020233990625e-05,
+    "margin": 0.9998174759020912,
+    "probabilities": {
+      "Early_Blight": 0.9998935461044312,
+      "Healthy": 7.607020233990625e-05,
+      "Late_Blight": 3.0375267670024186e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.99%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.01%，早疫病 99.99%，晚疫病 0.00%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_6.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9998335838317871,
+    "second_confidence": 0.0001403615897288546,
+    "margin": 0.9996932222420583,
+    "probabilities": {
+      "Early_Blight": 0.9998335838317871,
+      "Healthy": 2.5972132789320312e-05,
+      "Late_Blight": 0.0001403615897288546
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.98%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.00%，早疫病 99.98%，晚疫病 0.01%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_7.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9983491897583008,
+    "second_confidence": 0.0016103920061141253,
+    "margin": 0.9967387977521867,
+    "probabilities": {
+      "Early_Blight": 0.9983491897583008,
+      "Healthy": 4.043832086608745e-05,
+      "Late_Blight": 0.0016103920061141253
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.83%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.00%，早疫病 99.83%，晚疫病 0.16%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_8.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9999154806137085,
+    "second_confidence": 7.110098522389308e-05,
+    "margin": 0.9998443796284846,
+    "probabilities": {
+      "Early_Blight": 0.9999154806137085,
+      "Healthy": 1.3497608051693533e-05,
+      "Late_Blight": 7.110098522389308e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 99.99%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.00%，早疫病 99.99%，晚疫病 0.01%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_9.jpg",
+    "device": "cuda",
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9999887943267822,
+    "second_confidence": 8.424070074397605e-06,
+    "margin": 0.9999803702567078,
+    "probabilities": {
+      "Early_Blight": 0.9999887943267822,
+      "Healthy": 2.7347805371391587e-06,
+      "Late_Blight": 8.424070074397605e-06
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有早疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应叶面出现褐色坏死斑点或局部病斑扩展等症状。各类别概率分别为：健康 0.00%，早疫病 100.00%，晚疫病 0.00%。建议结合原始叶片图像进行人工复核，并继续观察病斑扩展情况。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_1.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9997469782829285,
+    "second_confidence": 0.00014744656800758094,
+    "margin": 0.9995995317149209,
+    "probabilities": {
+      "Early_Blight": 0.00014744656800758094,
+      "Healthy": 0.9997469782829285,
+      "Late_Blight": 0.00010560861846897751
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 99.97%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 99.97%，早疫病 0.01%，晚疫病 0.01%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_2.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9997535347938538,
+    "second_confidence": 0.00023223912285175174,
+    "margin": 0.999521295671002,
+    "probabilities": {
+      "Early_Blight": 1.425762184226187e-05,
+      "Healthy": 0.9997535347938538,
+      "Late_Blight": 0.00023223912285175174
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 99.98%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 99.98%，早疫病 0.00%，晚疫病 0.02%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_3.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9999973773956299,
+    "second_confidence": 1.9949834495491814e-06,
+    "margin": 0.9999953824121803,
+    "probabilities": {
+      "Early_Blight": 6.383517643371306e-07,
+      "Healthy": 0.9999973773956299,
+      "Late_Blight": 1.9949834495491814e-06
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 100.00%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 100.00%，早疫病 0.00%，晚疫病 0.00%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_4.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9999891519546509,
+    "second_confidence": 1.0499958079890348e-05,
+    "margin": 0.999978651996571,
+    "probabilities": {
+      "Early_Blight": 3.5280149290883855e-07,
+      "Healthy": 0.9999891519546509,
+      "Late_Blight": 1.0499958079890348e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 100.00%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 100.00%，早疫病 0.00%，晚疫病 0.00%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_5.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9999923706054688,
+    "second_confidence": 7.033257588773267e-06,
+    "margin": 0.99998533734788,
+    "probabilities": {
+      "Early_Blight": 5.738710910918599e-07,
+      "Healthy": 0.9999923706054688,
+      "Late_Blight": 7.033257588773267e-06
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 100.00%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 100.00%，早疫病 0.00%，晚疫病 0.00%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_6.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9999710321426392,
+    "second_confidence": 2.049125214398373e-05,
+    "margin": 0.9999505408904952,
+    "probabilities": {
+      "Early_Blight": 8.437064934696537e-06,
+      "Healthy": 0.9999710321426392,
+      "Late_Blight": 2.049125214398373e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 100.00%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 100.00%，早疫病 0.00%，晚疫病 0.00%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_7.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9999593496322632,
+    "second_confidence": 4.0702343540033326e-05,
+    "margin": 0.9999186472887232,
+    "probabilities": {
+      "Early_Blight": 4.783774709693489e-09,
+      "Healthy": 0.9999593496322632,
+      "Late_Blight": 4.0702343540033326e-05
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 100.00%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 100.00%，早疫病 0.00%，晚疫病 0.00%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_8.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.999862790107727,
+    "second_confidence": 0.00013603824481833726,
+    "margin": 0.9997267518629087,
+    "probabilities": {
+      "Early_Blight": 1.1747232520065154e-06,
+      "Healthy": 0.999862790107727,
+      "Late_Blight": 0.00013603824481833726
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 99.99%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 99.99%，早疫病 0.00%，晚疫病 0.01%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Healthy_9.jpg",
+    "device": "cuda",
+    "predicted_class": "Healthy",
+    "confidence": 0.9999873638153076,
+    "second_confidence": 7.565418854937889e-06,
+    "margin": 0.9999797983964527,
+    "probabilities": {
+      "Early_Blight": 5.1001702559005935e-06,
+      "Healthy": 0.9999873638153076,
+      "Late_Blight": 7.565418854937889e-06
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子判定为健康状态。模型置信度为 100.00%，结果可信度很高。当前未检测到明显的早疫病或晚疫病特征。各类别概率分别为：健康 100.00%，早疫病 0.00%，晚疫病 0.00%。建议继续保持观察，并结合后续图像采集进行周期性监测。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_1.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 0.9999828338623047,
+    "second_confidence": 1.321466697845608e-05,
+    "margin": 0.9999696191953262,
+    "probabilities": {
+      "Early_Blight": 3.971983460360207e-06,
+      "Healthy": 1.321466697845608e-05,
+      "Late_Blight": 0.9999828338623047
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_2.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 0.999955415725708,
+    "second_confidence": 4.463733785087243e-05,
+    "margin": 0.9999107783878571,
+    "probabilities": {
+      "Early_Blight": 1.452024889214698e-10,
+      "Healthy": 4.463733785087243e-05,
+      "Late_Blight": 0.999955415725708
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_3.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 0.999808132648468,
+    "second_confidence": 0.00018844951409846544,
+    "margin": 0.9996196831343696,
+    "probabilities": {
+      "Early_Blight": 0.00018844951409846544,
+      "Healthy": 3.5102902984363027e-06,
+      "Late_Blight": 0.999808132648468
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 99.98%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.02%，晚疫病 99.98%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_4.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 1.0,
+    "second_confidence": 5.269701475185684e-08,
+    "margin": 0.9999999473029852,
+    "probabilities": {
+      "Early_Blight": 4.2116099052691425e-08,
+      "Healthy": 5.269701475185684e-08,
+      "Late_Blight": 1.0
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_5.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 0.9999990463256836,
+    "second_confidence": 9.382167149851739e-07,
+    "margin": 0.9999981081089686,
+    "probabilities": {
+      "Early_Blight": 9.382167149851739e-07,
+      "Healthy": 5.87386210781915e-08,
+      "Late_Blight": 0.9999990463256836
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_6.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 0.9999973773956299,
+    "second_confidence": 2.4673365714988904e-06,
+    "margin": 0.9999949100590584,
+    "probabilities": {
+      "Early_Blight": 1.6254428203410498e-07,
+      "Healthy": 2.4673365714988904e-06,
+      "Late_Blight": 0.9999973773956299
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_7.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 1.0,
+    "second_confidence": 1.869406629495529e-09,
+    "margin": 0.9999999981305934,
+    "probabilities": {
+      "Early_Blight": 1.869406629495529e-09,
+      "Healthy": 1.4402873338426048e-09,
+      "Late_Blight": 1.0
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_8.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 0.9999994039535522,
+    "second_confidence": 5.877654984942637e-07,
+    "margin": 0.9999988161880538,
+    "probabilities": {
+      "Early_Blight": 9.567298953072623e-09,
+      "Healthy": 5.877654984942637e-07,
+      "Late_Blight": 0.9999994039535522
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  },
+  {
+    "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_9.jpg",
+    "device": "cuda",
+    "predicted_class": "Late_Blight",
+    "confidence": 1.0,
+    "second_confidence": 1.7995068546383663e-08,
+    "margin": 0.9999999820049315,
+    "probabilities": {
+      "Early_Blight": 1.365753465876196e-08,
+      "Healthy": 1.7995068546383663e-08,
+      "Late_Blight": 1.0
+    },
+    "status": "confident",
+    "diagnosis_text": "诊断结果：这片叶子疑似患有晚疫病。模型置信度为 100.00%，结果可信度很高。该结果通常对应较大面积病斑、组织受损或边缘坏死等表现。各类别概率分别为：健康 0.00%，早疫病 0.00%，晚疫病 100.00%。建议尽快结合实际植株状态进行复核，并关注病害进一步传播风险。"
+  }
+]

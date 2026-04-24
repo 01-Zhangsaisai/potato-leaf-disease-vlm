@@ -1,0 +1,20 @@
+{
+  "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Early_Blight_7.jpg",
+  "language": "zh",
+  "cnn_result": {
+    "predicted_class": "Early_Blight",
+    "confidence": 0.9983491897583008,
+    "second_class": "Late_Blight",
+    "second_confidence": 0.0016103920061141253,
+    "margin": 0.9967387977521867,
+    "probabilities": {
+      "Early_Blight": 0.9983491897583008,
+      "Healthy": 4.043832086608745e-05,
+      "Late_Blight": 0.0016103920061141253
+    }
+  },
+  "vlm_raw_output": "诊断结论：\n根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有早疫病（Early_Blight），模型置信度高达 0.998349，第一候选与第二候选概率差距为 0.996739，置信度状态为 confident。健康叶片的概率仅为 0.000040，晚疫病的概率为 0.001610。\n\n图像中的可能视觉依据：\n- 叶片上存在明显的褐色斑点和斑块，这是早疫病的典型症状。\n- 叶片边缘和叶脉处可能出现枯萎现象。\n\n说明与限制：\n- CNN 的预测结果具有较高的准确性，但最终诊断仍需结合实际观察和农业专家的确认。\n- 早疫病是由多种真菌引起的，包括 Phomopsis infestans 和 Alternaria solani 等，因此在描述时应谨慎提及相关病原。\n- 仅凭图像无法完全排除其他病害的可能性，建议进行进一步的实验室检测以确诊。",
+  "vlm_final_output": "诊断结论：\n根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有早疫病（Early_Blight），模型置信度高达 0.998349，第一候选与第二候选概率差距为 0.996739，置信度状态为 confident。健康叶片的概率仅为 0.000040，晚疫病的概率为 0.001610。\n\n图像中的可能视觉依据：\n- 叶片上存在明显的褐色斑点和斑块，这是早疫病的典型症状。\n- 叶片边缘和叶脉处可能出现枯萎现象。\n\n说明与限制：\n- CNN 的预测结果具有较高的准确性，但最终诊断仍需结合实际观察和农业专家的确认。\n- 早疫病是由多种真菌引起的，包括 Phomopsis infestans 和 Alternaria solani 等，因此在描述时应谨慎提及相关病原。\n- 仅凭图像无法完全排除其他病害的可能性，建议进行进一步的实验室检测以确诊。",
+  "warnings": [],
+  "retry_used": false
+}

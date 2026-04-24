@@ -1,0 +1,11 @@
+Classification Report (Test Set)
+==================================================
+              precision    recall  f1-score   support
+
+Early_Blight     1.0000    1.0000    1.0000       100
+     Healthy     1.0000    1.0000    1.0000        16
+ Late_Blight     1.0000    1.0000    1.0000       100
+
+    accuracy                         1.0000       216
+   macro avg     1.0000    1.0000    1.0000       216
+weighted avg     1.0000    1.0000    1.0000       216

@@ -1,0 +1,16 @@
+Image: D:\研究生毕业论文实验\potato_cnn_project\sample_images\Late_Blight_8.jpg
+Language: zh
+Predicted class: Late_Blight
+Confidence: 0.999999
+Margin: 0.999999
+
+诊断结论：
+根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有晚疫病（Late_Blight），模型的置信度非常高，达到了 0.999999。第一候选与第二候选的概率差距也非常大，进一步确认了这一诊断。
+
+图像中的可能视觉依据：
+- 叶片上存在明显的褐色斑点和坏死区域。
+- 叶片边缘有轻微的卷曲现象。
+- 叶片表面有水渍状的痕迹。
+
+说明与限制：
+尽管 CNN 模型的预测非常准确，但为了确保诊断的准确性，建议进行人工复核或咨询农业专家以获得更全面的信息。晚疫病是由 Phytophthora infestans 等真菌病原引起的，因此在处理过程中需要注意防治措施，避免病害扩散。

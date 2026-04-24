@@ -1,0 +1,41 @@
+# virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# datasets
+data/
+datasets/
+Pak-PLD-Potato/
+PlantVillage-Potato/
+
+# model weights and large files
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.safetensors
+
+# temporary and system files
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# notebook/cache
+.ipynb_checkpoints/
+.cache/
+
+# optional raw prediction outputs
+predictions.csv

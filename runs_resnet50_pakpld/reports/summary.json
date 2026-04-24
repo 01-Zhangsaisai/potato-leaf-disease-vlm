@@ -1,0 +1,19 @@
+{
+  "project_dir": "D:\\研究生毕业论文实验\\potato_cnn_project",
+  "data_root": "D:\\研究生毕业论文实验\\Pak-PLD-Potato",
+  "save_dir": "D:\\研究生毕业论文实验\\potato_cnn_project\\runs_resnet50_pakpld",
+  "device": "cuda",
+  "num_classes": 3,
+  "class_names": [
+    "Early_Blight",
+    "Healthy",
+    "Late_Blight"
+  ],
+  "train_samples": 3251,
+  "val_samples": 416,
+  "test_samples": 405,
+  "epochs_completed": 7,
+  "best_val_acc": 0.997596,
+  "best_epoch": 2,
+  "best_model_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\runs_resnet50_pakpld\\models\\best_resnet50_pakpld.pth"
+}

@@ -1,0 +1,15 @@
+Image: D:\研究生毕业论文实验\potato_cnn_project\sample_images\Early_Blight_9.jpg
+Language: zh
+Predicted class: Early_Blight
+Confidence: 0.999989
+Margin: 0.999980
+
+诊断结论：
+根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有早疫病（Early_Blight），模型置信度高达 0.999989，表明预测非常准确。健康叶片的概率仅为 0.000003，进一步证实了这一结论。
+
+图像中的可能视觉依据：
+- 叶片表面有明显的黑色斑点，这是早疫病的典型特征。
+- 叶片边缘和叶脉上也可能出现类似的病变。
+
+说明与限制：
+尽管 CNN 模型的预测结果非常可靠，但为了确保诊断的准确性，建议进行人工复核或咨询农业专家以获得更全面的信息。此外，晚疫病（Late_Blight）与 Phytophthora infestans 相关病原有关，但在当前图像中未观察到晚疫病的明显症状。

@@ -1,0 +1,20 @@
+{
+  "image_path": "D:\\研究生毕业论文实验\\potato_cnn_project\\sample_images\\Late_Blight_3.jpg",
+  "language": "zh",
+  "cnn_result": {
+    "predicted_class": "Late_Blight",
+    "confidence": 0.999808132648468,
+    "second_class": "Early_Blight",
+    "second_confidence": 0.00018844951409846544,
+    "margin": 0.9996196831343696,
+    "probabilities": {
+      "Early_Blight": 0.00018844951409846544,
+      "Healthy": 3.5102902984363027e-06,
+      "Late_Blight": 0.999808132648468
+    }
+  },
+  "vlm_raw_output": "诊断结论：\n根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有晚疫病（Late_Blight），模型的置信度非常高，达到了 0.999808。第一候选与第二候选的概率差距也非常小，进一步确认了这一诊断。\n\n图像中的可能视觉依据：\n- 叶片表面有明显的褐色斑点和斑块。\n- 叶片边缘和叶脉处出现枯萎现象。\n- 叶片颜色从绿色逐渐变为黄色和褐色。\n\n说明与限制：\n尽管 CNN 模型的预测非常准确，但最终诊断仍需人工复核或由农业专家进行确认。晚疫病是由 Phytophthora infestans 等真菌引起的，常见于潮湿条件下，对马铃薯生长造成严重影响。在实际应用中，应结合其他观察指标和专业意见来综合判断病情。",
+  "vlm_final_output": "诊断结论：\n根据 CNN 分类模型 EfficientNetB3 的输出结果，该马铃薯叶片疑似患有晚疫病（Late_Blight），模型的置信度非常高，达到了 0.999808。第一候选与第二候选的概率差距也非常小，进一步确认了这一诊断。\n\n图像中的可能视觉依据：\n- 叶片表面有明显的褐色斑点和斑块。\n- 叶片边缘和叶脉处出现枯萎现象。\n- 叶片颜色从绿色逐渐变为黄色和褐色。\n\n说明与限制：\n尽管 CNN 模型的预测非常准确，但最终诊断仍需人工复核或由农业专家进行确认。晚疫病是由 Phytophthora infestans 等真菌引起的，常见于潮湿条件下，对马铃薯生长造成严重影响。在实际应用中，应结合其他观察指标和专业意见来综合判断病情。",
+  "warnings": [],
+  "retry_used": false
+}
