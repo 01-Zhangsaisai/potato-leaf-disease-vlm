@@ -31,7 +31,7 @@ set_seed(42)
 # =========================
 PROJECT_DIR = Path(__file__).resolve().parent
 
-DATA_ROOT = Path(r"D:\研究生毕业论文实验\Pak-PLD-Potato")
+DATA_ROOT = PROJECT_DIR / "Pak-PLD-Potato"
 TRAIN_DIR = DATA_ROOT / "Training"
 VAL_DIR = DATA_ROOT / "Validation"
 TEST_DIR = DATA_ROOT / "Testing"
