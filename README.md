@@ -45,10 +45,10 @@ Two potato leaf datasets were used:
 
 | Dataset | Classes |
 |---|---|
-| Pak-PLD | Early_Blight, Healthy, Late_Blight |
+| Pak-PLD Potato | Early_Blight, Healthy, Late_Blight |
 | PlantVillage Potato | Early_Blight, Healthy, Late_Blight |
 
-The datasets are not included in this repository because of size and licensing considerations.
+Both datasets are included in this repository for reproducibility.
 
 ## Experimental Results
 
@@ -79,7 +79,7 @@ runs_efficientnetb3_plantvillage/
 demo_outputs_vlm/
 ```
 
-These folders contain training curves, confusion matrices, classification reports, summaries, and prediction outputs.
+These folders contain trained model weights, training curves, confusion matrices, classification reports, summaries, and prediction outputs.
 
 ## Installation
 
@@ -100,15 +100,18 @@ python main.py --image sample_images/example.jpg
 Run CNN + VLM diagnosis:
 
 ```bash
-python main_qwen_vlm.py --image sample_images/example.jpg
+python main_qwen_vlm.py --image sample_images --language ru
 ```
 
 ## Notes
 
-- Model weight files are not uploaded to GitHub.
-- Dataset images are not uploaded to GitHub.
+- Trained model weight files are included in the repository.
+- The Pak-PLD-Potato and PlantVillage-Potato datasets are included for reproducibility.
 - This repository contains code, experiment results, figures, and thesis-related materials.
 - YOLO-based leaf detection is not included in the current implementation and is reserved for future work.
+- Qwen2.5-VL may require internet access for the first model download and sufficient hardware resources.
+- The default CNN inference script uses:
+  `runs_efficientnetb3_pakpld/models/best_efficientnetb3_pakpld.pth`
 
 ## Future Work
 
