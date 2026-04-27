@@ -100,7 +100,7 @@ python main.py --image sample_images/Early_Blight_1.jpg
 Run CNN + VLM diagnosis:
 
 ```bash
-python main_qwen_vlm.py --image sample_images --language ru
+python main_qwen_vlm.py --image sample_images/Early_Blight_1.jpg --language ru
 ```
 
 ## Notes
