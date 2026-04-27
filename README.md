@@ -94,7 +94,7 @@ pip install -r requirements.txt
 Run CNN inference:
 
 ```bash
-python main.py --image sample_images/example.jpg
+python main.py --image sample_images/Early_Blight_1.jpg
 ```
 
 Run CNN + VLM diagnosis:
